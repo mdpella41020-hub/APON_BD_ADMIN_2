@@ -1,0 +1,8 @@
+#python-telegram-bot==21.6
+httpx
+APScheduler
+flask
+psutil
+requests
+aiohttp
+tzdata
