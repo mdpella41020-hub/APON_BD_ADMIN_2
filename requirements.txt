@@ -1,0 +1,6 @@
+flask
+python-telegram-bot
+psutil
+aiohttp
+requests
+watchdog
